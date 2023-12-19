@@ -2,7 +2,7 @@
 body{
     margin: 100px;
     padding: 50px;
-    background-color:hsl(235, 18%, 26%);
+    background-color:hsl(234, 29%, 20%);
 }
 
 .main{
@@ -55,7 +55,7 @@ input {
 
 button{
     height: 55px;
-    font-size: 15px;
+    font-size: 20px;
     border-radius: 5px;
     color: aliceblue;
     background: hsl(235, 18%, 26%);
