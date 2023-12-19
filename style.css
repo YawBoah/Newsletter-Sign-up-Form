@@ -68,6 +68,10 @@ button a {
     color: aliceblue;
 }
 
+button:hover{
+    background-color: orangered;
+}
+
 .right img{
     margin: 10px;
 }
