@@ -8,7 +8,7 @@ I've just conquered a thrilling front-end coding challenge from [@frontendmentor
 
 This web page is your ticket to signing up for our monthly newsletter – a direct pipeline to the latest and greatest! Whether you're into product discovery, success measurement, or various other exciting topics, our newsletter has you covered. Join the 60,000+ product managers already benefitting from our exclusive insights.
 
-![Newsletter Sign-up Page](/images/newsletter-signup-screenshot.png)
+![Newsletter Sign-up Page](https://github.com/YawBoah/Newsletter-Sign-up-Form/assets/126890146/dba14f62-bf40-4331-b148-0697532d6de8)
 
 ## ✨ Features
 
