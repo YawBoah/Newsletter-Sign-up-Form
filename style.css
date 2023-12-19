@@ -1,0 +1,97 @@
+/* The main page */
+body{
+    margin: 100px;
+    padding: 50px;
+    background-color: rebeccapurple;
+}
+
+.main{
+    background-color: whitesmoke;
+    color: #030352;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 10px;    
+}
+
+.left{
+    margin: 50px;
+    padding: 20px;
+}
+
+.left h1{
+    font-size: 50px;
+}
+
+.left p{
+    font-size: 23px;
+}
+
+.left ul li{
+    padding: 5px;
+    list-style: none;
+    font-size: 20px;
+}
+
+.left form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+label{
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+input {
+    height: 35px;
+    border-radius: 5px;
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+}
+
+button{
+    height: 55px;
+    font-size: 15px;
+    border-radius: 5px;
+    color: aliceblue;
+    background: #030352;
+    border: none;
+    padding: 10px;
+}
+
+button a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.right img{
+    margin: 10px;
+}
+
+/* The thank you page */
+.sub{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: aliceblue;
+    width: 30%;
+    height: 320px;
+    margin-left: 40%;
+    padding: 15px;
+    border-radius: 20px;
+    color: #030352;
+}
+
+.sub button{
+    width: 300px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+#subscriberEmail{
+    font-weight: 900;
+}
