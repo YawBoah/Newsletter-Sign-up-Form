@@ -2,12 +2,12 @@
 body{
     margin: 100px;
     padding: 50px;
-    background-color: rebeccapurple;
+    background-color:hsl(235, 18%, 26%);
 }
 
 .main{
     background-color: whitesmoke;
-    color: #030352;
+    color: hsl(235, 18%, 26%);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -58,7 +58,7 @@ button{
     font-size: 15px;
     border-radius: 5px;
     color: aliceblue;
-    background: #030352;
+    background: hsl(235, 18%, 26%);
     border: none;
     padding: 10px;
 }
@@ -87,7 +87,7 @@ button:hover{
     margin-left: 40%;
     padding: 15px;
     border-radius: 20px;
-    color: #030352;
+    color: hsl(235, 18%, 26%);
 }
 
 .sub button{
