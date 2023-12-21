@@ -1,5 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/913b0d66-47ae-4a31-b1b7-7ec13dd20292/deploy-status)](https://app.netlify.com/sites/newsletterslove/deploys)
-# 📬 Newsletter Sign-up Page
+
+# Frontend Mentor - 📬 Newsletter Sign-up Page form with success message solution
+
+This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 Welcome to the **Newsletter Sign-up Page** – your portal to a world of insights and news! 🚀✨
 
 I've just conquered a thrilling front-end coding challenge from [@frontendmentor](https://www.frontendmentor.io/), and I can't wait to showcase this project to you!
