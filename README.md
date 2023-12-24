@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/913b0d66-47ae-4a31-b1b7-7ec13dd20292/deploy-status)](https://app.netlify.com/sites/newsletterslove/deploys)
+
 # 📬 Newsletter Sign-up Page
 Welcome to the **Newsletter Sign-up Page** – your portal to a world of insights and news! 🚀✨
 
