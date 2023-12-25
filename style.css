@@ -30,16 +30,19 @@ body{
 
 .left h1{
     font-size: 50px;
+    font-weight: 700;
 }
 
 .left p{
     font-size: 23px;
+    font-weight: 400;
 }
 
 .left ul li{
     padding: 5px;
     list-style: none;
     font-size: 20px;
+    font-weight: 400;
 }
 
 .left form{
