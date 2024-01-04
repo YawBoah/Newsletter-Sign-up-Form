@@ -7,7 +7,6 @@
 
 This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
->>>>>>> 8dc27658399d998b8c9afcd968d04f3ec4348aa0
 Welcome to the **Newsletter Sign-up Page** – your portal to a world of insights and news! 🚀✨
 
 I've just conquered a thrilling front-end coding challenge from [@frontendmentor](https://www.frontendmentor.io/), and I can't wait to showcase this project to you!
