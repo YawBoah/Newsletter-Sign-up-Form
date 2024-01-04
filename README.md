@@ -1,4 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/913b0d66-47ae-4a31-b1b7-7ec13dd20292/deploy-status)](https://app.netlify.com/sites/newsletterslove/deploys)
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Newsletter-Sign-up-Form)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Newsletter-Sign-up-Form)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Newsletter-Sign-up-Form)
 
 
 # 📬 Newsletter Sign-up Page
